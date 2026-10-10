@@ -8,7 +8,7 @@ onClick={() => setCount(count + 1)}
 className="bg-blue-500 text-white px-4 py-2 rounded"
 >
 Increase
-</button>
+</buttton>
 </div>
 );
 }
